@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+.env
+src/migrations/1677939300025-default.ts
