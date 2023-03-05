@@ -55,7 +55,9 @@ Verifique no banco se foram criadas as tabelas
 	
 Rode o comando para executar o projeto
 
+    npm i
     npm run dev
+    
 Resposta para obter sucesso
 
     > api-autenticacao-jwt@1.0.0 dev
