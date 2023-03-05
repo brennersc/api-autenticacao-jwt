@@ -11,15 +11,15 @@
 
 	- Renomeei o arquivo `.env.exemple` para `.env`
 
-    DB_HOST= <ip local>
-    DB_PORT= <porta local do banco>
-    DB_USER= <usuario para acessar o banco>
-    DB_PASS= <senha do usuario>
-    DB_NAME= <nome do banco>
+    DB_HOST=  *ip local*
+    DB_PORT=  *porta local do banco*
+    DB_USER=  *usuário para acessar o banco*
+    DB_PASS=  *senha do usuário*
+    DB_NAME= *nome do banco*
     
-    PORT= <porta para acesar o projeto>
+    PORT= *porta para acessar o projeto*
     
-    JWT_PASS= <token>
+    JWT_PASS= *token*
 
  4. Tenha em seu computador instalado o NODE e MYSQL.
 
@@ -59,11 +59,11 @@ Rode o comando para executar o projeto
 Resposta para obter sucesso
 
     > api-autenticacao-jwt@1.0.0 dev
-    > nodemon --exec ts-node ./src/index.ts    
+    > nodemon --exec ts-node ./src/index.ts
 	    [nodemon] 2.0.19
 	    [nodemon] to restart at any time, enter `rs`
 	    [nodemon] watching path(s): *.*
-		[nodemon] watching extensions: ts,json
+	    [nodemon] watching extensions: ts,json
 	    [nodemon] starting `ts-node ./src/index.ts`
 	    [nodemon] restarting due to changes...
 	    [nodemon] starting `ts-node ./src/index.ts
