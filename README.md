@@ -25,6 +25,10 @@
 
 ## Execute os seguintes comando para iniciar o projeto
 
+Instale as dependências do projeto
+
+       npm i
+
 Nesse projeto estamos trabalhando com [migrations](https://juniorb2s.medium.com/migrations-o-porque-e-como-usar-12d98c6d9269) para facilitar a manipulação do banco de dados
 
     npm run migration:generate
@@ -55,9 +59,8 @@ Verifique no banco se foram criadas as tabelas
 	
 Rode o comando para executar o projeto
 
-    npm i
     npm run dev
-    
+
 Resposta para obter sucesso
 
     > api-autenticacao-jwt@1.0.0 dev
