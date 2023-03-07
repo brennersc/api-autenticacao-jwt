@@ -27,7 +27,7 @@
 
 Instale as dependências do projeto
 
-       npm i
+    npm i
 
 Nesse projeto estamos trabalhando com [migrations](https://juniorb2s.medium.com/migrations-o-porque-e-como-usar-12d98c6d9269) para facilitar a manipulação do banco de dados
 
